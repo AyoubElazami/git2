@@ -1,0 +1,18 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+h1 {
+    color: #007BFF;
+}
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+a {
+    color: #FF5733;
+}
+
+echo "Version 1" >> style.css
